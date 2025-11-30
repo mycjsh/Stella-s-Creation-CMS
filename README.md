@@ -1,4 +1,6 @@
 Stellas-Creation-CMS
+
+
 Stella’s Creation is a full web-based ordering and management system for a personalized gifts business. It includes customer registration, product browsing, custom orders with image uploads, cart system, order tracking, and an admin dashboard for managing orders, customers, & product inventory. Supports authentication & password recovery via Gmail. Stella’s Creation – Personalized Gifts Ordering System A complete web-based ordering and management platform designed for Stella’s Creation, a personalized gifts business that handles custom orders, product uploads, and order tracking.
 
 Features: Customer Side Create Account (Gmail-required + 11-digit phone validation) Secure Login / Logout Add to Cart & Submit Orders Upload photos & custom notes Track order status (Pending → Approved → Ready → Completed → Refunded) Forgot Password + email reset link Responsive UI with soft pink–lavender theme Admin Side Admin login with session security View total orders + status dashboard Update order statuses Manage customers See pending / approved / ready / completed orders Photo preview management.
